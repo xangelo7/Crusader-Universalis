@@ -266,7 +266,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = turkish
 		}
 	}
 	pecheneg = {
@@ -338,7 +338,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = pecheneg
 		}
 	}
 	
@@ -415,7 +415,8 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			8 = pecheneg
+			8 = kipchak				
 		}
 	}
 	
@@ -505,7 +506,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = khazar
 		}
 	}
 	
@@ -604,6 +605,8 @@
 
 		ethnicities = {
 			10 = asian
+			8 = kipchak		
+			7 = pecheneg			
 		}
 	}
 	
@@ -733,7 +736,8 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = khazar
+			10 = kipchak			
 		}
 	}
 	
@@ -967,7 +971,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = khazar
 		}
 	}
 	
@@ -1121,7 +1125,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = asian
+			10 = kipchak
 		}
 	}
 	
@@ -1339,6 +1343,7 @@
 
 		ethnicities = {
 			10 = asian
+			6 = kipchak			
 		}
 	}
 	

@@ -80,6 +80,10 @@
 	}
 	
 	wolof = {
+	
+		graphical_cultures = {
+			sub_saharan_african_tribal_clothing_gfx
+		}	
 		
 		color = { 0.42 0.43 0.25 }
 

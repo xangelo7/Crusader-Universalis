@@ -127,7 +127,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = african
+			10 = somali
 		}
 
 		mercenary_names = {
@@ -234,7 +234,7 @@
 		
 		ethnicities = {
 			8 = arab
-			7 = african
+			7 = somali
 		}
 		
 		mercenary_names = {
@@ -306,7 +306,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = african
+			10 = somali
 		}
 
 		mercenary_names = {

@@ -233,8 +233,7 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			10 = arab
-			4 = african
+			10 = butr
 		}
 
 		mercenary_names = {
@@ -467,8 +466,7 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			10 = arab
-			1 = african
+			10 = baranis
 		}
 
 		mercenary_names = {
@@ -519,7 +517,7 @@
 		
 		ethnicities = {
 			7 = african
-			4 = arab
+			4 = butr
 		}
 	}
 }

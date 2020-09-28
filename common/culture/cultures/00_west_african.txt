@@ -116,7 +116,9 @@
 	}
 	
 	bobo = {
-		
+		graphical_cultures = {
+			sub_saharan_african_tribal_clothing_gfx
+		}		
 		color = hsv{ 0.58 0.94 0.7 }
 
 		cadet_dynasty_names = {
@@ -186,7 +188,7 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = african
+			10 = west_african_tribal
 		}
 	}
 	
@@ -357,6 +359,10 @@
 	}
 	
 	mel = {
+	
+		graphical_cultures = {
+			sub_saharan_african_tribal_clothing_gfx
+		}	
 		
 		color = hsv{ 0.59 0.55 0.8 }
 
@@ -415,7 +421,7 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = african
+			10 = west_african_tribal
 		}
 	}
 }

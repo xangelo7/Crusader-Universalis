@@ -108,7 +108,7 @@
 		dynasty_of_location_prefix = "dynnp_ve"
 		
 		ethnicities = {
-			10 = mediterranean_byzantine
+			10 = armenian
 		}
 	}
 	
@@ -1301,7 +1301,7 @@
 		patronym_suffix_female = "dynnpat_suf_y_chyzg"
 		
 		ethnicities = {
-			10 = mediterranean_byzantine
+			10 = alan
 		}
 	}
 	
@@ -1421,7 +1421,7 @@
 		patronym_suffix_female = "dynnpat_suf_shvili"
 		
 		ethnicities = {
-			10 = mediterranean_byzantine
+			10 = georgian
 		}
 
 		mercenary_names = {
@@ -1490,7 +1490,7 @@
 		patronym_prefix_female = "dynnpat_pre_Barta"
 
 		ethnicities = {
-			10 = arab
+			10 = armenian
 		}
 	}
 }

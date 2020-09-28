@@ -2,7 +2,7 @@
 	graphical_cultures = {
 		chinese_group_coa_gfx
 		indian_building_gfx
-		mongol_clothing_gfx
+		han_clothing_gfx
 		mongol_unit_gfx
 	}
 	
@@ -256,7 +256,7 @@
 		dynasty_title_names = no
 
 		ethnicities = {
-			10 = asian
+			10 = han
 		}
 	}
 }

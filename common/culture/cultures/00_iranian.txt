@@ -221,8 +221,7 @@
 		patronym_suffix_female = "dynnpat_suf_dokht"
 		
 		ethnicities = {
-			8 = arab
-			5 = mediterranean
+			8 = persian
 		}
 
 		mercenary_names = {
@@ -296,8 +295,8 @@
 		patronym_prefix_female = "dynnpat_pre_zk"
 
 		ethnicities = {
-			7 = arab
-			5 = mediterranean
+			7 = afghan
+			5 = afghan_red
 		}
 
 		mercenary_names = {
@@ -388,8 +387,7 @@
 		patronym_prefix_female = "dynnpat_pre_tkacer"
 
 		ethnicities = {
-			7 = arab
-			5 = mediterranean
+			10 = afghan_red
 		}
 
 		mercenary_names = {
@@ -473,8 +471,7 @@
 		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
 		ethnicities = {
-			8 = arab
-			5 = mediterranean
+			8 = persian
 		}
 
 		mercenary_names = {
@@ -566,8 +563,9 @@
 		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
 		ethnicities = {
-			8 = arab
-			4 = mediterranean
+			12 = afghan
+			4 = afghan_brown
+			1 = afghan_blonde			
 		}
 
 		mercenary_names = {
@@ -660,7 +658,7 @@
 		patronym_prefix_female = "dynnpat_pre_kiC_E_"
 
 		ethnicities = {
-			10 = arab
+			10 = persian
 		}
 
 		mercenary_names = {
@@ -721,8 +719,7 @@
 		patronym_prefix_female = "dynnpat_pre_duda"
 
 		ethnicities = {
-			7 = arab
-			5 = mediterranean
+			7 = afghan_brown
 		}
 	}
 	
@@ -814,8 +811,9 @@
 		patronym_suffix_female = "dynnpat_suf_dokht"
 		
 		ethnicities = {
-			7 = arab
-			7 = mediterranean
+			7 = persian
+			7 = afghan_brown
+			1 = afghan_blonde			
 		}
 
 		mercenary_names = {
@@ -880,8 +878,7 @@
 		patronym_suffix_female = "dynnpat_suf_zk"
 
 		ethnicities = {
-			7 = arab
-			6 = mediterranean
+			7 = persian
 		}
 
 		mercenary_names = {
@@ -973,8 +970,8 @@
 		patronym_suffix_female = "dynnpat_suf_dukht"
 	
 		ethnicities = {
-			8 = arab
-			6 = mediterranean
+			8 = afghan
+			6 = persian
 		}
 
 		mercenary_names = {

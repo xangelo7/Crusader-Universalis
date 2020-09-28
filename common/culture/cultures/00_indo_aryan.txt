@@ -275,7 +275,7 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = indian
+			10 = bengali
 		}
 
 		mercenary_names = {
@@ -596,7 +596,7 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = indian
+			10 = assamese
 		}
 	}
 
@@ -859,6 +859,7 @@
 		
 		ethnicities = {
 			10 = indian
+			7 = persian			
 		}
 
 		mercenary_names = {
@@ -1464,6 +1465,7 @@
 		
 		ethnicities = {
 			10 = indian
+			6 = southern_indian			
 		}
 
 		mercenary_names = {
@@ -1816,7 +1818,7 @@
 		mother_name_chance = 0
 		
 		ethnicities = {
-			10 = indian
+			10 = southern_indian
 		}
 
 		mercenary_names = {
@@ -2051,6 +2053,7 @@
 		
 		ethnicities = {
 			10 = indian
+			4 = southern_indian					
 		}
 
 		mercenary_names = {
@@ -2133,6 +2136,7 @@
 		ethnicities = {
 			6 = indian
 			4 = asian
+			4 = southern_indian			
 		}
 	}
 }

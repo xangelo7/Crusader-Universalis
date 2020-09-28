@@ -75,7 +75,7 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = asian
+			10 = burmese
 			1 = indian
 		}
 		
@@ -131,7 +131,7 @@
 		founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = asian
+			10 = burmese
 		}
 		
 		mercenary_names = {

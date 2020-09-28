@@ -379,7 +379,8 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = arab
+			10 = egyptian
+			6 = arab			
 		}
 
 		mercenary_names = {
@@ -477,7 +478,7 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = arab
+			10 = egyptian
 		}
 
 		mercenary_names = {
@@ -984,8 +985,8 @@
 		founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = arab
-			6 = african
+			10 = yemeni
+			6 = somali
 		}
 	}
 }

@@ -68,7 +68,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = african
+			10 = east_african
 		}
 
 		mercenary_names = {
@@ -78,6 +78,7 @@
 	}
 	
 	nubian = {
+	
 		
 		color = hsv{ 0.12 0.9 0.7 }
 		
@@ -140,7 +141,7 @@
 		#founder_named_dynasties = yes
 
 		ethnicities = {
-			10 = african
+			10 = nubian
 			3 = arab
 		}
 		
@@ -152,6 +153,10 @@
 	}
 	
 	welayta = { #Represents Damot and Omotic languages for now - needs complete set of names and dynasties etc.
+
+		graphical_cultures = {
+			sub_saharan_african_tribal_clothing_gfx
+		}
 		
 		color = hsv{ 0.17 0.65 0.44 }
 		
@@ -213,7 +218,7 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = african
+			10 = east_african
 		}
 		
 		mercenary_names = {
@@ -225,6 +230,10 @@
 	
 	daju = {
 		color = hsv{ 0.17 0.8 0.7 }
+		
+		graphical_cultures = {
+			sub_saharan_african_tribal_clothing_gfx
+		}		
 		
 		cadet_dynasty_names = {
 			"dynn_Warsangali"
@@ -298,7 +307,8 @@
 		mother_name_chance = 30
 		
 		ethnicities = {
-			7 = african
+			7 = beja
+			10 = nubian			
 			5 = arab
 		}
 		

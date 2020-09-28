@@ -2,7 +2,7 @@
 	graphical_cultures = { 
 		central_african_group_coa_gfx
 		mena_building_gfx
-		african_clothing_gfx
+		sub_saharan_african_tribal_clothing_gfx
 		sub_sahran_unit_gfx
 	}
 
@@ -82,7 +82,7 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = african
+			10 = west_african_tribal
 		}
 	}
 	
@@ -147,7 +147,7 @@
 		#founder_named_dynasties = yes
 		
 		ethnicities = {
-			10 = african
+			10 = west_african_tribal
 		}
 	}
 	
